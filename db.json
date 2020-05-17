@@ -1,0 +1,19 @@
+ {
+  "categories": [
+     {
+    name: 'adult',
+    title: 'Пикантные',
+    categoryId: 1,
+  },
+  {
+    name: 'life',
+    title: 'О жизни',
+    categoryId: 2,
+  },
+  {
+    name: 'life',
+    title: 'Мистика',
+    categoryId: 3,
+  }
+ ]
+ }
