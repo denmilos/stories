@@ -1,6 +1,6 @@
 {
     "categories": {
-        "list": [
+        "accessList": [
             {
                 "id": 1,
                 "name": "adult",
@@ -20,225 +20,227 @@
                 "access": true
             }
         ],
-        "adult": [
-            {
-                "id": 1,
-                "name": "new",
-                "title": "Новые",
-                "access": true
-            },
-            {
-                "id": 2,
-                "name": "traditionally",
-                "title": "Традиционно",
-                "access": true
-            },
-            {
-                "id": 3,
-                "name": "drama",
-                "title": "Драма",
-                "access": true
-            },
-            {
-                "id": 4,
-                "name": "group",
-                "title": "Группа",
-                "access": false
-            },
-            {
-                "id": 5,
-                "name": "treason",
-                "title": "Измена",
-                "access": false
-            },
-            {
-                "id": 6,
-                "name": "mandatory",
-                "title": "Принудители",
-                "access": false
-            },
-            {
-                "id": 7,
-                "name": "service",
-                "title": "Служебное",
-                "access": false
-            },
-            {
-                "id": 8,
-                "name": "case",
-                "title": "Случай",
-                "access": false
-            },
-            {
-                "id": 9,
-                "name": "students",
-                "title": "Студенты",
-                "access": true
-            },
-            {
-                "id": 10,
-                "name": "romance",
-                "title": "Романтика",
-                "access": true
-            },
-            {
-                "id": 11,
-                "name": "fantasies",
-                "title": "Фантазии",
-                "access": false
-            },
-            {
-                "id": 12,
-                "name": "strangenesses",
-                "title": "Странности",
-                "access": false
-            },
-            {
-                "id": 13,
-                "name": "subordination",
-                "title": "Подчинение",
-                "access": false
-            },
-            {
-                "id": 14,
-                "name": "disguise",
-                "title": "Переодевание",
-                "access": true
-            },
-            {
-                "id": 15,
-                "name": "m+m",
-                "title": "М+М",
-                "access": true
-            },
-            {
-                "id": 16,
-                "name": "w+w",
-                "title": "Ж+Ж",
-                "access": true
-            },
-            {
-                "id": 17,
-                "name": "firstTime",
-                "title": "Первый+раз",
-                "access": true
-            },
-            {
-                "id": 18,
-                "name": "observers",
-                "title": "Наблюдатели",
-                "access": true
-            },
-            {
-                "id": 19,
-                "name": "elderly",
-                "title": "Пожилые",
-                "access": true
-            },
-            {
-                "id": 20,
-                "name": "pickupStories",
-                "title": "Пикап+истории",
-                "access": true
-            },
-            {
-                "id": 21,
-                "name": "fantasy",
-                "title": "Фантастика",
-                "access": true
-            }
-        ],
-        "life": [
-            {
-                "id": 1,
-                "name": "sad",
-                "title": "Грустные",
-                "access": true
-            },
-            {
-                "id": 2,
-                "name": "funny",
-                "title": "Смешные",
-                "access": true
-            },
-            {
-                "id": 3,
-                "name": "animals",
-                "title": "Животные",
-                "access": true
-            },
-            {
-                "id": 4,
-                "name": "health",
-                "title": "Здоровье",
-                "access": false
-            },
-            {
-                "id": 5,
-                "name": "pregnancy",
-                "title": "Роды и беременность",
-                "access": false
-            },
-            {
-                "id": 6,
-                "name": "children",
-                "title": "Дети",
-                "access": false
-            },
-            {
-                "id": 7,
-                "name": "school",
-                "title": "Школа",
-                "access": false
-            },
-            {
-                "id": 8,
-                "name": "students",
-                "title": "Студенты",
-                "access": false
-            },
-            {
-                "id": 9,
-                "name": "army",
-                "title": "Армия",
-                "access": true
-            },
-            {
-                "id": 10,
-                "name": "hobbies",
-                "title": "Работа и хобби",
-                "access": true
-            },
-            {
-                "id": 11,
-                "name": "journeys",
-                "title": "Путешествия",
-                "access": false
-            },
-            {
-                "id": 12,
-                "name": "friendship",
-                "title": "Дружба",
-                "access": false
-            },
-            {
-                "id": 13,
-                "name": "cruelly",
-                "title": "Жестоко",
-                "access": false
-            },
-            {
-                "id": 14,
-                "name": "love",
-                "title": "Любовь",
-                "access": true
-            },
-            {
-                "id": 15,
-                "name": "treasons",
-                "title": "Измены",
-                "access": true
-            }
-        ]
+        "catList": {
+            "adult": [
+                {
+                    "id": 1,
+                    "name": "new",
+                    "title": "Новые",
+                    "access": true
+                },
+                {
+                    "id": 2,
+                    "name": "traditionally",
+                    "title": "Традиционно",
+                    "access": true
+                },
+                {
+                    "id": 3,
+                    "name": "drama",
+                    "title": "Драма",
+                    "access": true
+                },
+                {
+                    "id": 4,
+                    "name": "group",
+                    "title": "Группа",
+                    "access": false
+                },
+                {
+                    "id": 5,
+                    "name": "treason",
+                    "title": "Измена",
+                    "access": false
+                },
+                {
+                    "id": 6,
+                    "name": "mandatory",
+                    "title": "Принудители",
+                    "access": false
+                },
+                {
+                    "id": 7,
+                    "name": "service",
+                    "title": "Служебное",
+                    "access": false
+                },
+                {
+                    "id": 8,
+                    "name": "case",
+                    "title": "Случай",
+                    "access": false
+                },
+                {
+                    "id": 9,
+                    "name": "students",
+                    "title": "Студенты",
+                    "access": true
+                },
+                {
+                    "id": 10,
+                    "name": "romance",
+                    "title": "Романтика",
+                    "access": true
+                },
+                {
+                    "id": 11,
+                    "name": "fantasies",
+                    "title": "Фантазии",
+                    "access": false
+                },
+                {
+                    "id": 12,
+                    "name": "strangenesses",
+                    "title": "Странности",
+                    "access": false
+                },
+                {
+                    "id": 13,
+                    "name": "subordination",
+                    "title": "Подчинение",
+                    "access": false
+                },
+                {
+                    "id": 14,
+                    "name": "disguise",
+                    "title": "Переодевание",
+                    "access": true
+                },
+                {
+                    "id": 15,
+                    "name": "m+m",
+                    "title": "М+М",
+                    "access": true
+                },
+                {
+                    "id": 16,
+                    "name": "w+w",
+                    "title": "Ж+Ж",
+                    "access": true
+                },
+                {
+                    "id": 17,
+                    "name": "firstTime",
+                    "title": "Первый+раз",
+                    "access": true
+                },
+                {
+                    "id": 18,
+                    "name": "observers",
+                    "title": "Наблюдатели",
+                    "access": true
+                },
+                {
+                    "id": 19,
+                    "name": "elderly",
+                    "title": "Пожилые",
+                    "access": true
+                },
+                {
+                    "id": 20,
+                    "name": "pickupStories",
+                    "title": "Пикап+истории",
+                    "access": true
+                },
+                {
+                    "id": 21,
+                    "name": "fantasy",
+                    "title": "Фантастика",
+                    "access": true
+                }
+            ],
+            "life": [
+                {
+                    "id": 1,
+                    "name": "sad",
+                    "title": "Грустные",
+                    "access": true
+                },
+                {
+                    "id": 2,
+                    "name": "funny",
+                    "title": "Смешные",
+                    "access": true
+                },
+                {
+                    "id": 3,
+                    "name": "animals",
+                    "title": "Животные",
+                    "access": true
+                },
+                {
+                    "id": 4,
+                    "name": "health",
+                    "title": "Здоровье",
+                    "access": false
+                },
+                {
+                    "id": 5,
+                    "name": "pregnancy",
+                    "title": "Роды и беременность",
+                    "access": false
+                },
+                {
+                    "id": 6,
+                    "name": "children",
+                    "title": "Дети",
+                    "access": false
+                },
+                {
+                    "id": 7,
+                    "name": "school",
+                    "title": "Школа",
+                    "access": false
+                },
+                {
+                    "id": 8,
+                    "name": "students",
+                    "title": "Студенты",
+                    "access": false
+                },
+                {
+                    "id": 9,
+                    "name": "army",
+                    "title": "Армия",
+                    "access": true
+                },
+                {
+                    "id": 10,
+                    "name": "hobbies",
+                    "title": "Работа и хобби",
+                    "access": true
+                },
+                {
+                    "id": 11,
+                    "name": "journeys",
+                    "title": "Путешествия",
+                    "access": false
+                },
+                {
+                    "id": 12,
+                    "name": "friendship",
+                    "title": "Дружба",
+                    "access": false
+                },
+                {
+                    "id": 13,
+                    "name": "cruelly",
+                    "title": "Жестоко",
+                    "access": false
+                },
+                {
+                    "id": 14,
+                    "name": "love",
+                    "title": "Любовь",
+                    "access": true
+                },
+                {
+                    "id": 15,
+                    "name": "treasons",
+                    "title": "Измены",
+                    "access": true
+                }
+            ]
+        }
     }
 }
