@@ -15,9 +15,9 @@
             },
             {
                 "id": 3,
-                "name": "life",
+                "name": "mysticism",
                 "title": "Мистика",
-                "access": true
+                "access": false
             }
         ],
         "catList": {
