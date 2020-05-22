@@ -1,11 +1,13 @@
 {
     "categories": {
-        "accessList": [{
+        "accessList": [
+            {
                 "id": 1,
                 "name": "adult",
                 "title": "Пикантные",
                 "access": true,
-                "subcategories": [{
+                "subcategories": [
+                    {
                         "id": 1,
                         "name": "new",
                         "title": "Новые",
@@ -102,55 +104,6 @@
                         "title": "Переодевание",
                         "img": "https://123-files.ru/stories/img/adult/disguise.png",
                         "access": true
-                    },
-                    {
-                        "id": 15,
-                        "name": "m+m",
-                        "title": "М+М",
-                        "img": "https://123-files.ru/stories/img/adult/m+m.png",
-                        "access": true
-                    },
-                    {
-                        "id": 16,
-                        "name": "w+w",
-                        "title": "Ж+Ж",
-                        "img": "https://123-files.ru/stories/img/adult/w+w.png",
-                        "access": true
-                    },
-                    {
-                        "id": 17,
-                        "name": "firstTime",
-                        "title": "Первый+раз",
-                        "img": "https://123-files.ru/stories/img/adult/firstTime.png",
-                        "access": true
-                    },
-                    {
-                        "id": 18,
-                        "name": "observers",
-                        "title": "Наблюдатели",
-                        "img": "https://123-files.ru/stories/img/adult/observers.png",
-                        "access": true
-                    },
-                    {
-                        "id": 19,
-                        "name": "elderly",
-                        "title": "Пожилые",
-                        "img": "https://123-files.ru/stories/img/adult/elderly.png",
-                        "access": true
-                    },
-                    {
-                        "id": 20,
-                        "name": "pickupStories",
-                        "title": "Пикап+истории",
-                        "img": "https://123-files.ru/stories/img/adult/pickupStories.png",
-                        "access": true
-                    },
-                    {
-                        "id": 21,
-                        "name": "fantasy",
-                        "title": "Фантастика",
-                        "img": "https://123-files.ru/stories/img/adult/fantasy.png",
-                        "access": true
                     }
                 ]
             },
@@ -159,7 +112,8 @@
                 "name": "life",
                 "title": "О жизни",
                 "access": true,
-                "subcategories": [{
+                "subcategories": [
+                    {
                         "id": 1,
                         "name": "sad",
                         "title": "Грустные",
